@@ -1,0 +1,4 @@
+[submodule "ccxt"]
+	path = ccxt
+	url = https://github.com/time-by-waves/ccxt-swyftx.git
+	branch = exchange/swyftx
